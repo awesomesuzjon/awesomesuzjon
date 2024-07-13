@@ -10,7 +10,7 @@
 
 - 🔭 Frontend Intern at Softmahal Pvt. Ltd. (Nov 2021 - Dec 2021) 
 
-- ⚡ Lesson of the day **Unless your name is Google stop acting like you know everything.**
+- ⚡ Lesson of the day **Keep Learning Everyday.**
 
 <p align="left">
 </p>
