@@ -4,7 +4,9 @@
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
 
 
-- 🔭 I’m currently working at **HamroPatro Inc. Company**
+- ⚡Currently pursuing Masters of Information technology in CyberSecurity at **Macquarie University**
+
+- 🔭 Worked as Software Engineer at **HamroPatro Inc. Company** for 2.5 years
 
 - ⚡ Lesson of the day **Unless your name is Google stop acting like you know everything.**
 
